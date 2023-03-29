@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ApiBaseReceitas.Domain.Service/1.0.0": {
+        "dependencies": {
+          "ApiBaseReceitas.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "ApiBaseReceitas.Domain.Service.dll": {}
+        }
+      },
+      "ApiBaseReceitas.Domain/1.0.0": {
+        "runtime": {
+          "ApiBaseReceitas.Domain.dll": {}
+        }
+      },
+      "ApiBaseReceitas.Domain.Core/1.0.0": {
+        "dependencies": {
+          "ApiBaseReceitas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ApiBaseReceitas.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiBaseReceitas.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiBaseReceitas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiBaseReceitas.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

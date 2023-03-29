@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kYMYddW0fuVH6hxJX0eNKrwvz/giPMjmnXvjpfvnG8E=",
+  "Source": "ApiBaseReceitas.API",
+  "BasePath": "_content/ApiBaseReceitas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

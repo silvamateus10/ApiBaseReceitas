@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.application.deps.json
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.application.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.application.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.Domain.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\bin\Debug\net6.0\ApiBaseReceitas.Domain.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.csproj.CopyComplete
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\refint\ApiBaseReceitas.application.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ApiBaseReceitas.application.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.application\obj\Debug\net6.0\ref\ApiBaseReceitas.application.dll

@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.Service.deps.json
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.Service.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.Service.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\bin\Debug\net6.0\ApiBaseReceitas.Domain.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.csproj.CopyComplete
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\refint\ApiBaseReceitas.Domain.Service.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ApiBaseReceitas.Domain.Service.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Service\obj\Debug\net6.0\ref\ApiBaseReceitas.Domain.Service.dll

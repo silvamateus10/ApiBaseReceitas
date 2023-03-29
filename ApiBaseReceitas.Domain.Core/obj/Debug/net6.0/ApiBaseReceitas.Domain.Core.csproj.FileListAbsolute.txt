@@ -1,0 +1,15 @@
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.deps.json
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\bin\Debug\net6.0\ApiBaseReceitas.Domain.Core.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\bin\Debug\net6.0\ApiBaseReceitas.Domain.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\bin\Debug\net6.0\ApiBaseReceitas.Domain.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.csproj.CopyComplete
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\refint\ApiBaseReceitas.Domain.Core.dll
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ApiBaseReceitas.Domain.Core.pdb
+C:\Users\Mateus\source\repos\ApiBaseReceitas\ApiBaseReceitas.Domain.Core\obj\Debug\net6.0\ref\ApiBaseReceitas.Domain.Core.dll
